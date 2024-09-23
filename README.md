@@ -1,6 +1,6 @@
 # CKY Algorithm for CFG and PCFG Parsing
 
-This project implements the CKY algorithm for parsing context-free and probabilistic context-free grammars (CFG and PCFG). The goal is to build a parser that checks sentence membership and retrieves parse trees from a given grammar.
+This project implements the CKY algorithm for parsing context-free and probabilistic context-free grammars (CFG and PCFG). The goal is to build a parser that checks sentence membership and retrieves parse trees from a given grammar. The parser uses a pre-established ruleset and around 1000 test sentences for a corpus.
 
 ## Key Features
 - **Grammar Validation**: Ensures the grammar is in Chomsky Normal Form (CNF).
